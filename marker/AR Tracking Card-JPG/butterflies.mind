@@ -1,0 +1,84 @@
+{
+  "images": [
+    {
+      "name": "butterfly1",
+      "path": "./marker/AR Tracking Card-JPG/butterfly1.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    {
+      "name": "butterfly2",
+      "path": "./marker/AR Tracking Card-JPG/butterfly2.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    {
+      "name": "butterfly3",
+      "path": "./marker/AR Tracking Card-JPG/butterfly3.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    {
+      "name": "butterfly4",
+      "path": "./marker/AR Tracking Card-JPG/butterfly4.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    {
+      "name": "butterfly5",
+      "path": "./marker/AR Tracking Card-JPG/butterfly5.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    {
+      "name": "butterfly6",
+      "path": "./marker/AR Tracking Card-JPG/butterfly6.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    {
+      "name": "butterfly7",
+      "path": "./marker/AR Tracking Card-JPG/butterfly7.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    {
+      "name": "butterfly8",
+      "path": "./marker/AR Tracking Card-JPG/butterfly8.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    {
+      "name": "butterfly9",
+      "path": "./marker/AR Tracking Card-JPG/butterfly9.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    {
+      "name": "butterfly10",
+      "path": "./marker/AR Tracking Card-JPG/butterfly10.jpeg",
+      "size": {
+        "width": 1.0,
+        "height": 1.0
+      }
+    }
+  ]
+}
