@@ -1,0 +1,11 @@
+Model Information:
+* title:	Butterfly
+* source:	https://sketchfab.com/3d-models/butterfly-5defa77dfc244f8d86664e8d775f6f68
+* author:	oodum (https://sketchfab.com/oodum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Butterfly" (https://sketchfab.com/3d-models/butterfly-5defa77dfc244f8d86664e8d775f6f68) by oodum (https://sketchfab.com/oodum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
